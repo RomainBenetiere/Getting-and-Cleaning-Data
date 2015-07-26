@@ -2,7 +2,7 @@
 
 ## How to run the script
 
-To run the script, open the file run_analysis.R with R, go to "edit" and then "execute all" - The script does the following:
+To run the script, open the file run_analysis.R with R, go to "edit" and then "execute all" - The script does the following :
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -12,7 +12,7 @@ To run the script, open the file run_analysis.R with R, go to "edit" and then "e
 
 ## Process
 
-The following will be process when run.analysis script will be run
+The following operations will be processed when run.analysis script will be run :
 
 1. Checking if "Rgetdata" directory exists - If not it will create it.
 2. Installing of the required package - It depends on dplyr package.
